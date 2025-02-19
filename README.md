@@ -8,7 +8,7 @@ npm install
 
 Ejecución del servidor
 
-npm start
+npm run start
 
 Endpoints
 
